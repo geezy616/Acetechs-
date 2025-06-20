@@ -1,0 +1,14 @@
+
+{
+  "name": "Acetechs",
+  "short_name": "Acetechs",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0077b6",
+  "icons": [{
+    "src": "https://cdn-icons-png.flaticon.com/512/820/820535.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
